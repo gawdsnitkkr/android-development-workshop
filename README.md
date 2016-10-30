@@ -7,7 +7,7 @@
     2. Static and non-static member
     3. Inheritance
     4. Method overloading and method overriding
-    5. Interfact and abstract Class
+    5. Interface and abstract Class
     6. Multi-threading
     7. Java Inner anonymous class
 
