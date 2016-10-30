@@ -33,7 +33,7 @@
     3. Music player with accelerometer sensor
 
 6. HTTP
-    1. Geting data from backend
+    1. Getting data from backend
     2. Signup and login implementation
 
 ###### For any query, contact gawds@gawds.in
