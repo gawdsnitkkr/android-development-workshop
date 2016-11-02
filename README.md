@@ -4,12 +4,12 @@
 
 1. Java OOP
     1. Class and Object
-    2. Static and non-static member
-    3. Inheritance
-    4. Method overloading and method overriding
-    5. Interface and abstract Class
-    6. Multi-threading
-    7. Java Inner anonymous class
+    2. Class and Instance Variable
+    3. Inheritance and Polymorhpism
+    4. Overloading and Overriding
+    5. Interface and Abstract Classes
+    6. Java Inner Anonymous Class
+    7. Multi-Threading
 
 2. Introduction to Android
     1. Android Architecture
